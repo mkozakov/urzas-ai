@@ -60,7 +60,7 @@ export default {
         flavorText:
           "Its appearance on Pouncing Ceratok Shellac is only of a living thing, never human.",
         loyalty: "",
-        manaCost: "{2}",
+        manaCost: "{2}{R}",
         name: "Pouncing Ceratok Shellac",
         power: "",
         rarity: "uncommon",
