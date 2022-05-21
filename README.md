@@ -1,2 +1,13 @@
-# urzas-ai
-Frontend for https://urzas.ai
+# mtg-app
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
